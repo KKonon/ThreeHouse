@@ -56,3 +56,78 @@
 .nav ul li a:hover{
     color: #7cc576;
 }
+
+/*.contact{
+
+}*/
+
+.footer{
+    background-color: #222222;
+}
+
+.footer .contact h3{
+    color: white;
+    text-transform: uppercase;
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.footer .contact .map{
+    display: flex;
+}
+
+.footer .contact .map .map__img{
+    background-image: url(/images/location.png);
+    width: 23px;
+    height: 31px;
+}
+
+.footer .contact .map .map__p{
+    width: 8%;
+    padding-left: 1%;
+}
+
+.footer .contact .map .map__p p{
+    color: white;
+}
+
+.footer .contact .phone{
+    display: flex;
+    
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.footer .contact .phone .phone__img{
+    background-image: url(/images/iPhone.png);
+    width: 21px;
+    height: 31px;
+}
+
+.footer .contact .phone .phone__p{
+    padding-left: 1%;
+    padding-top: 0.5%;
+}
+
+.footer .contact .phone .phone__p p{
+    color: white;
+}
+
+.footer .contact .mail{
+    display: flex;
+}
+
+.footer .contact .mail .mail__img{
+    background-image: url(/images/email.png);
+    width: 21px;
+    height: 16px;
+}
+
+.footer .contact .mail .mail__p{
+    padding-left: 1%;
+}
+
+.footer .contact .mail .mail__p p{
+    color: white;
+}
