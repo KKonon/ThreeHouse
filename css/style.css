@@ -104,6 +104,93 @@
     background-color: rgb(150, 150, 150);
 }
 
+.proffesional .prof__head h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 36px;
+
+    padding: 5% 0% 2% 0%;
+}
+
+.proffesional .prof__head p{
+    text-align: center;
+    font-size: 17px;
+    color: #808080;
+
+    padding-bottom: 5%;
+}
+
+.proffesional .prof_wrapper{
+    display: flex;
+    justify-content: space-around;
+
+    padding-bottom: 5%;
+}
+
+.proffesional .prof_wrapper .prof__design .prof__design__img{
+    background-image: url(/images/Heart.png);
+    width: 54px;
+    height: 48px;
+
+    margin-left: 43%;
+}
+
+.proffesional .prof_wrapper .prof__design h3{
+    margin-top: 10%;
+    padding-left: 23%;
+    padding-bottom: 5%;
+    text-transform: uppercase;
+}
+
+.proffesional .prof_wrapper .prof__design p{
+    line-height: 1.5;
+    text-align: center;
+    color: #808080;
+}
+
+
+.proffesional .prof_wrapper .prof__web .prof__web__img{
+    background-image: url(/images/Mobile.png);
+    width: 40px;
+    height: 52px;
+
+    margin-left: 43%;
+}
+
+.proffesional .prof_wrapper .prof__web h3{
+    margin-top: 8.5%;
+    padding-left: 23%;
+    padding-bottom: 5%;
+    text-transform: uppercase;
+}
+
+.proffesional .prof_wrapper .prof__web p{
+    line-height: 1.5;
+    text-align: center;
+    color: #808080;
+}
+
+.proffesional .prof__tools .prof__tools__img{
+    background-image: url(/images/Graph.png);
+    width: 55px;
+    height: 44px;
+    
+    margin-left: 43%;
+}
+
+.proffesional .prof_wrapper .prof__tools h3{
+    margin-top: 10%;
+    padding-left: 23%;
+    padding-bottom: 5%;
+    text-transform: uppercase;
+}
+
+.proffesional .prof_wrapper .prof__tools p{
+    line-height: 1.5;
+    text-align: center;
+    color: #808080;
+}
+
 
 
 
