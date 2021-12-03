@@ -84,7 +84,7 @@
                 <div class="tweets2__img"></div>
                 <div class="tweets2__p">
                     <p>Grab the Free Threehouse web <br>template at FreebiesXpress!</p>
-                    <p class="teg">#freebies #templates</p>
+                    <p class="teg">#<span>freebies</span> #<span>templates</span></p>
                     <p class="time">2 min ago</p>
                 </div>
             </div>
