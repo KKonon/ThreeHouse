@@ -91,5 +91,18 @@
         </div>
     </div>
 </footer>
+
+<div class="copyright content">
+    <div class="copyright__title">
+        <p>&#169 Copyright 2014 FreebiesXpress.com</p>
+    </div>
+
+    <div class="copyright__soc">
+        <div class="twitter"></div>
+        <div class="fb"></div>
+        <div class="pr"></div>
+        <div class="g"></div>
+    </div>
+</div>
 </body>
 </html>

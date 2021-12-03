@@ -544,3 +544,68 @@
     font-size: 13px;
     margin-top: 2%;
 }
+
+.copyright{
+    display: flex;
+    padding: 2% 0 2% 0;
+}
+
+.copyright .copyright__title{
+    padding: 1% 0 1% 0;
+}
+
+.copyright .copyright__soc{
+    display: flex;
+    justify-content: space-around;
+
+    width: 20%;
+    margin-left: 20%;
+}
+
+.copyright .copyright__soc .twitter{
+    background-image: url(/images/soc/Twitter.png);
+    width: 41px;
+    height: 41px;
+}
+
+.copyright .copyright__soc .twitter:hover{
+    background-image: url(/images/soc/hover/Twitter.png);
+    width: 41px;
+    height: 41px;
+}
+
+.copyright .copyright__soc .fb{
+    background-image: url(/images/soc/Facebook.png);
+    width: 41px;
+    height: 41px;
+}
+
+.copyright .copyright__soc .fb:hover{
+    background-image: url(/images/soc/hover/Facebook.png);
+    width: 41px;
+    height: 41px;
+}
+
+.copyright .copyright__soc .pr{
+    background-image: url(/images/soc/Pinterest.png);
+    width: 41px;
+    height: 41px;
+}
+
+.copyright .copyright__soc .pr:hover{
+    background-image: url(/images/soc/hover/Pinterest.png);
+    width: 41px;
+    height: 41px;
+}
+
+.copyright .copyright__soc .g{
+    background-image: url(/images/soc/Google+.png);
+    width: 41px;
+    height: 41px;
+}
+
+.copyright .copyright__soc .g:hover{
+    background-image: url(/images/soc/hover/Google+.png);
+    width: 41px;
+    height: 41px;
+}
