@@ -191,8 +191,106 @@
     color: #808080;
 }
 
+.relax{
+    background-image: url(/images/bckgrelax.png);
+    background-size: cover;
+
+    padding-bottom: 5%;
+}
+
+.relax h2{
+    text-transform: uppercase;
+    font-size: 36px;
+    line-height: 1.5;
+    color: white;
+
+    padding: 5% 0% 2% 0%;
+}
+
+.relax h2 span{
+    color: #7cc576;
+}
+
+.relax p{
+    font-size: 20px;
+    line-height: 1.5;
+    color: #8c8a88;
+}
+
+.relax .relax__case1{
+    display: flex;
+    padding-top: 2%;
+}
+
+.relax .relax__case1 .relax__case1__img{
+    background-image: url(/images/Circlerelax.png);
+    width: 32px;
+    height: 32px;
+}
+
+.relax .relax__case1 p{
+    font-size: 20px;
+    padding-left: 1%;
+
+    color: #8c8a88;
+}
 
 
+.relax .relax__case2{
+    display: flex;
+    padding: 1% 0 1% 0;
+}
+
+.relax .relax__case2 .relax__case2__img{
+    background-image: url(/images/Circlerelax.png);
+    width: 32px;
+    height: 32px;
+}
+
+.relax .relax__case2 p{
+    font-size: 20px;
+    padding-left: 1%;
+
+    color: #8c8a88;
+}
+
+.relax .relax__case3{
+    display: flex;
+}
+
+.relax .relax__case3 .relax__case3__img{
+    background-image: url(/images/Circlerelax.png);
+    width: 32px;
+    height: 32px;
+}
+
+.relax .relax__case3 p{
+    font-size: 20px;
+    padding-left: 1%;
+
+    color: #8c8a88;
+}
+
+.relax .relax__btn{
+    padding-top: 3%;
+}
+
+.relax .relax__btn button{
+    border-radius: 50px;
+    padding: 1% 2%;
+    appearance: none;
+    border: none;
+
+    text-transform: uppercase;
+    background-color: #7bc575;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.relax .relax__btn button:hover{
+    background-color: grey;
+}
 
 .Fwrapper{
     display: flex;
