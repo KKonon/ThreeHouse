@@ -1,6 +1,7 @@
-<?php 
-require_once "./php/header.php";
+<?php
+require_once "header.php";
 
-require_once "./php/nav.php";
 
-require_once "./php/footer.php";
+
+require_once "footer.php";
+?>

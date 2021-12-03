@@ -4,7 +4,7 @@ $Menu = [
     "About" => "#",
     "Blog" => "#",
     "Portfolio" => "#",
-    "Contact" => "contact.php"
+    "Contact" => "/php/contact.php"
 ];
 
  foreach ($Menu as $key => $value){
