@@ -7,7 +7,7 @@
 
     <div class="nav__menu">
         <?php
-            require_once "./php/pagesdata.php";
+            require_once "pagesdata.php";
         ?>
     </div>
 
