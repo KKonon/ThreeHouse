@@ -1,7 +1,7 @@
 <section class="nav content">
 
     <div class="logo">
-        <div class="img"></div>
+        <div class="img"><a href="/"></a></div>
         <h2>Threehouse</h2>
     </div>
 
