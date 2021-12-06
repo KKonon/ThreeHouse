@@ -286,6 +286,157 @@
     background-color: grey;
 }
 
+.project{
+    background-image: url(/images/tab.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: bottom;
+    background-position-x: 190%;
+}
+
+.project .project__title{
+    margin-top: 5%;
+    margin-bottom: 3%;   
+}
+
+.project .project__title h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 36px;
+}
+
+.project .project__title p{
+    text-align: center;
+    font-size: 17px;
+    color: #8c8a88;
+
+    padding-top: 1%;
+}
+
+.project .project__development h3{
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-bottom: 2%;
+}
+
+.project .project__development p{
+    font-size: 17px;
+    color: #8c8a88;
+    width: 40%;
+}
+
+.project .project__development .project__development__basket{
+    display: flex;
+    padding-top: 2%;
+}
+
+.project .project__development .project__development__basket .development__img1{
+    background-image: url(/images/basket.png);
+    width: 73px;
+    height: 72px;
+}
+
+.project .project__development .project__development__basket .basket_title{
+    display: flex;
+    flex-direction: column;
+
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+.project .project__development .project__development__basket .basket_title h3{
+    text-transform: none;
+}
+
+.project .project__development .project__development__basket .basket_title p{
+   width: 100%;
+}
+
+.project .project__development .project__development__SEO{
+    display: flex;
+    padding-top: 2%;
+}
+
+.project .project__development .project__development__SEO .SEO__img{
+    background-image: url(/images/laptop.png);
+    width: 73px;
+    height: 72px;
+}
+
+.project .project__development .project__development__SEO .SEO_title{
+    display: flex;
+    flex-direction: column;
+
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.project .project__development .project__development__SEO .SEO_title h3{
+    text-transform: none;
+}
+
+.project .project__development .project__development__SEO .SEO_title p{
+   width: 100%;
+}
+
+.project .project__development .project__development__Secure{
+    display: flex;
+    padding-top: 2%;
+}
+
+.project .project__development .project__development__Secure .Secure__img{
+    background-image: url(/images/laptop.png);
+    width: 73px;
+    height: 72px;
+}
+
+.project .project__development .project__development__Secure .Secure_title{
+    display: flex;
+    flex-direction: column;
+
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.project .project__development .project__development__Secure .Secure_title h3{
+    text-transform: none;
+}
+
+.project .project__development .project__development__Secure .Secure_title p{
+   width: 100%;
+}
+
+.project_footer{
+ padding-bottom: 5%;
+}
+
+.project_footer p{
+    width: 40%;
+    margin-top: 1%;
+    line-height: 1.5;
+    font-size: 17px;
+    color: #8c8a88;
+
+    padding-bottom: 2%;
+}
+
+.project_footer a{
+    text-decoration: none;
+    color: #7cc576;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.project_footer a:hover{
+    color: #8c8a88;
+}
+
+.project_footer img{
+    padding-left: 1%;
+}
+
 .Fwrapper{
     display: flex;
     justify-content: space-evenly;
