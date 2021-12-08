@@ -754,3 +754,49 @@
     width: 41px;
     height: 41px;
 }
+
+.contacts{
+    background-color: rgb(190, 190, 190);
+}
+
+.contacts h2{
+    text-transform: uppercase;
+    color: rgb(255, 251, 251);
+    text-align: center;
+
+    padding-top: 5%;
+}
+
+.contacts .contact__info{
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts .contact__info input{
+    width: 30%;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 15px 35%;
+    border: none;
+}
+
+.contacts button{
+    border-radius: 50px;
+    padding: 1% 2%;
+    appearance: none;
+    border: none;
+
+    text-transform: uppercase;
+    background-color: #7bc575;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+
+    margin-top: 2%;
+    margin-left: 46%;
+    margin-bottom: 5%;
+}
+
+.contacts button:hover{
+    background-color: #6e6e6e;
+}
