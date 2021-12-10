@@ -10,4 +10,4 @@
 </form>
 
 <button form="contact">Отправить</button>
-</div>
+</diV>

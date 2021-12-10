@@ -1,10 +1,10 @@
 <?php
 $Menu = [
-    "Home" => "/index.php",
+    "Home" => "/index.php?id=home",
     "About" => "#",
     "Blog" => "#",
     "Portfolio" => "#",
-    "Contact" => "/php/contact.php"
+    "Contact" => "/php/contact.php?id=contact"
 ];
 
  foreach ($Menu as $key => $value){
